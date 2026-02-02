@@ -7,9 +7,9 @@
       "model": "item/gold_ingot"
     },
     "entries": [
-      { "threshold": 1, "model": { "type": "model", "model": "mcicore:item/food/wdw/greenpopcornbk" } },
-      { "threshold": 2, "model": { "type": "model", "model": "mcicore:item/food/wdw/appopcornbk" } },
-      { "threshold": 3, "model": { "type": "model", "model": "mcicore:item/food/wdw/mickeyicebar" } }
+      { "threshold": 1, "model": { "type": "model", "model": "mcicore:item/cosmetics/wdw/ppfloungefly" } },
+      { "threshold": 2, "model": { "type": "model", "model": "mcicore:item/cosmetics/wdw/tlloungefly" } },
+      { "threshold": 3, "model": { "type": "model", "model": "mcicore:item/cosmetics/wdw/bluerefillablecup" } }
     ]
   }
 }
