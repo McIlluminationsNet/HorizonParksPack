@@ -11,5 +11,5 @@
       { "threshold": 2, "model": { "type": "model", "model": "mcicore:item/food/wdw/appopcornbk" } },
       { "threshold": 3, "model": { "type": "model", "model": "mcicore:item/food/wdw/mickeyicebar" } }
     ]
-  }
+  } 
 }

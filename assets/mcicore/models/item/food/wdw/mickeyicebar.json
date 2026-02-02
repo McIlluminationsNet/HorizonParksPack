@@ -6,7 +6,7 @@
 		"particle": "mcicore:item/wdw/food/mickeyicebar"
 	},
 	"elements": [
-		{
+		{ 
 			"from": [7.5, 4, 7],
 			"to": [8.5, 7, 7],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 4, 7]},
