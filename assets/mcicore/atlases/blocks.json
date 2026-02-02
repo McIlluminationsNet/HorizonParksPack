@@ -19,6 +19,16 @@
       "type": "directory",
       "source": "rides",
       "prefix": "rides/"
+    },
+    {
+      "type": "directory",
+      "source": "food",
+      "prefix": "food/"
+    },
+    {
+      "type": "directory",
+      "source": "cosmetics",
+      "prefix": "cosmetics/"
     }
   ]
 }
