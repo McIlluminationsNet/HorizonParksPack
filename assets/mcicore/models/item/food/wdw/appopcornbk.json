@@ -3,10 +3,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "mcicore:item/wdw/food/appopcornbk",
-		"particle": "mcicore:item/wdw/food/appopcornbk"
+		"2": "mcicore:item/wdw/food/appopcornbk"
 	},
-	"elements": [ 
+	"elements": [
 		{
 			"from": [6, 6, 9],
 			"to": [7, 7, 10],
@@ -593,6 +592,29 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [67, 0, 0],
+			"translation": [-0.25, -3.75, -3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [67, 0, 0],
+			"translation": [-0.25, -3.75, -3]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 101, 0],
+			"translation": [-1, 6.75, 1],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 101, 0],
+			"translation": [-1, 6.75, 1],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"on_shelf": {
+			"rotation": [0, -180, 0]
+		}
+	},
 	"groups": [
 		{
 			"name": "group",
