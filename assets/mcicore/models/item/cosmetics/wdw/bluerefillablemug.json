@@ -3,10 +3,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "mcicore:item/cosmetics/wdw/bluerefillablemug",
-		"particle": "mcicore:item/cosmetics/wdw/bluerefillablemug"
+		"0": "mcicore:bluerefillablemug",
+		"particle": "mcicore:bluerefillablemug"
 	},
-	"elements": [ 
+	"elements": [
 		{
 			"from": [6, 0, 6],
 			"to": [10, 8, 10],
@@ -135,7 +135,12 @@
 			}
 		}
 	],
-	"display": {},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 0, -2.75]
+		}
+	},
 	"groups": [
 		{
 			"name": "group",
