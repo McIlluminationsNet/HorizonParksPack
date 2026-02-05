@@ -611,6 +611,11 @@
 			"translation": [-1, 6.75, 1],
 			"scale": [0.75, 0.75, 0.75]
 		},
+		"gui": {
+			"rotation": [5, 153, 0],
+			"translation": [0, 1.75, 0],
+			"scale": [1.28, 1.09, 1.17]
+		},
 		"on_shelf": {
 			"rotation": [0, -180, 0]
 		}
