@@ -290,6 +290,10 @@
 		"thirdperson_righthand": {
 			"rotation": [68, -180, 0],
 			"translation": [-6, -8.75, 8.5]
+		},
+		"gui": {
+			"rotation": [0, 148, 0],
+			"translation": [0, -1, 0]
 		}
 	},
 	"groups": [
