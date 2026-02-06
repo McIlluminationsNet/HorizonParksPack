@@ -18,7 +18,8 @@
       { "threshold": 9, "model": { "type": "model", "model": "monorails/monoraildoorred" } },
       { "threshold": 10, "model": { "type": "model", "model": "monorails/monoraildoorsilver" } },
       { "threshold": 11, "model": { "type": "model", "model": "monorails/monoraildoorteal" } },
-      { "threshold": 12, "model": { "type": "model", "model": "monorails/monoraildooryellow" } }
+      { "threshold": 12, "model": { "type": "model", "model": "monorails/monoraildooryellow" } },
+      { "threshold": 13, "model": { "type": "model", "model": "mcicore:item/rides/wdw/dhs/tot/totcardoor" } }
     ]
   }
 }
