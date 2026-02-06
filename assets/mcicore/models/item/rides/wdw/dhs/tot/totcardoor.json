@@ -1,0 +1,23 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [1024, 1024],
+	"textures": {
+		"1": "mcicore:item/wdw/dhs/rides/sunsetblvd/tot/totcar"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 8],
+			"to": [11.75, 5, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 8]},
+			"faces": {
+				"north": {"uv": [3.48438, 5.98438, 4.14063, 6.28125], "texture": "#1"},
+				"east": {"uv": [3.4375, 5.98438, 3.48438, 6.28125], "texture": "#1"},
+				"south": {"uv": [4.1875, 5.98438, 4.84375, 6.28125], "texture": "#1"},
+				"west": {"uv": [4.14063, 5.98438, 4.1875, 6.28125], "texture": "#1"},
+				"up": {"uv": [4.14063, 5.98438, 3.48438, 5.9375], "texture": "#1"},
+				"down": {"uv": [4.79688, 5.9375, 4.14063, 5.98438], "texture": "#1"}
+			}
+		}
+	]
+}
