@@ -3,7 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [1024, 1024],
 	"textures": {
-		"1": "mcicore:item/wdw/dhs/rides/sunsetblvd/tot/totcar"
+		"1": "mcicore:item/wdw/dhs/rides/sunsetblvd/tot/totcar",
+		"particle": "mcicore:item/wdw/dhs/rides/sunsetblvd/tot/totcar"
 	},
 	"elements": [
 		{
