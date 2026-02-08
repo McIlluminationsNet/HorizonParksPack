@@ -2,9 +2,9 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "wctrashcan",
-		"1": "wntrashcandoor",
-		"particle": "wctrashcan"
+		"0": "item/trashcans/wdwmk/wctrashcan",
+		"1": "item/trashcans/wdwmk/wntrashcandoor",
+		"particle": "item/trashcans/wdwmk/wctrashcan"
 	},
 	"elements": [
 		{
