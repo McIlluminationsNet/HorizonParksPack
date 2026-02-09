@@ -3,7 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "mcicore:item/wdw/epcot/sse_cart"
+		"0": "mcicore:item/wdw/epcot/sse_cart",
+		"particle": "mcicore:item/wdw/epcot/sse_cart"
 	},
 	"elements": [
 		{
