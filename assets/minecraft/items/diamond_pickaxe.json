@@ -24,6 +24,7 @@
 
     { "threshold": 200, "model": { "type": "model", "model": "mcicore:item/rides/wdw/epcot/world_discovery/tt/props/outside/tt_sign" } },
     { "threshold": 201, "model": { "type": "model", "model": "mcicore:item/rides/wdw/epcot/world_discovery/tt/props/outside/tt_sign_emissive" } }
+	{ "threshold": 202, "model": { "type": "model", "model": "mcicore:item/rides/wdw/epcot/sse_cart" } }
     ] 
   } 
 }
