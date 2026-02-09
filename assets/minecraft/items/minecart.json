@@ -67,7 +67,7 @@
       { "threshold": 251, "model": { "type": "model", "model": "custom/epcot/gotgcrvehicle" } },
       { "threshold": 252, "model": { "type": "model", "model": "buses/bus" } },
       { "threshold": 253, "model": { "type": "model", "model": "mcicore:item/rides/wdw/dhs/tot/totcar" } },
-      { "threshold": 254, "model": { "type": "model", "model": "mcicore:item/rides/wdw/epcot" } }
+      { "threshold": 254, "model": { "type": "model", "model": "mcicore:item/rides/wdw/epcot/sse_cart" } }
     ]
   }
 }
