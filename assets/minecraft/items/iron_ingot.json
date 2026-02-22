@@ -176,7 +176,8 @@
       { "threshold": 228, "model": { "type": "model", "model": "custom/dhs/rotrfelevwall" } },
       { "threshold": 229, "model": { "type": "model", "model": "custom/dhs/rotrfelevwall1" } },
       { "threshold": 230, "model": { "type": "model", "model": "custom/dhs/rotrdooratat" } },
-      { "threshold": 231, "model": { "type": "model", "model": "custom/mk/hmwalkway" } }  
+      { "threshold": 231, "model": { "type": "model", "model": "custom/mk/hmwalkway" } }, 
+      { "threshold": 232, "model": { "type": "model", "model": "custom/mk/hmwalkway" } }
     ]
   }
 }
