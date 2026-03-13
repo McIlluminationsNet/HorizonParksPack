@@ -8,6 +8,8 @@
             {"type": "bitmap","file": "minecraft:_fonts/ranks/imagineer.png","ascent": 7,"height": 7,"chars": ["ꀆ"]},
             
             {"type": "bitmap","file": "minecraft:_fonts/ranks/developer.png","ascent": 7,"height": 7,"chars": ["ꀈ"]},
+
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/character.png","ascent": 7,"height": 7,"chars": ["ꀓ"]},
             
             {"type": "bitmap","file": "minecraft:_fonts/ranks/cast-member.png","ascent": 7,"height": 7,"chars": ["ꀊ"]},
 
